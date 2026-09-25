@@ -11,13 +11,13 @@ window.addEventListener("DOMContentLoaded", () => {
     let floatingX = 80;
     let floatingY = 120;
 
-    let floatingVX = 1.8;
-    let floatingVY = 1.8;
+    let floatingVX = 1.4;
+    let floatingVY = 1.4;
 
     let mouseX = null;
     let mouseY = null;
 
-    const normalSpeed = 1.6;
+    const normalSpeed = 1.4;
     const escapeDistance = 160;
     const boostDistance = 70;
     const boostSpeed = 5;
