@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.2/reset.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Sorts+Mill+Goudy:ital@0;1&display=swap"
+        rel="stylesheet">
+    <title>Kantaro Kometani - Contact</title>
+</head>
+
+<body>
+    <header class="header_box"></header>
+    <main class="content_frame">
+        <div class="contact_page">
+            <div class="contact_intro">
+                <p>制作やプロデュース、コラボレーション、クリエイティブディレクション、楽曲使用、デザインなどのご依頼・ご相談、そのほかのお問い合わせは、以下のフォームよりご連絡ください。
+                    プロジェクトの概要、スケジュール、ご予算、使用目的など、可能な範囲で詳しくお知らせいただけますと幸いです。内容を確認のうえ、できるだけ早くお返事いたします。詳しい情報をお送りいただくことで、よりスムーズにご案内できます。
+                </p>
+
+                <p>For inquiries regarding creative commissions, production, collaborations, creative direction, music
+                    licensing, design work, or anything else, please use the form below. Please provide as much detail
+                    as
+                    possible, including an overview of the project, timeline, budget, and intended use. I will review
+                    your
+                    message and get back to you as soon as possible. The more information you provide, the easier it
+                    will be
+                    for me to assess and respond to your inquiry.</p>
+            </div>
+            <form id="contact-form" action="https://formspree.io/f/maeyavla" method="POST" class="contact_box">
+
+                <dl>
+                    <div class="onamae">
+                        <dt><label for="user_name">Name</label></dt>
+                        <dd>
+                            <input type="text" id="user_name" name="name" required>
+                        </dd>
+                    </div>
+                    <div class="mail">
+                        <dt><label for="user_email">Mail</label></dt>
+                        <dd>
+                            <input type="email" id="user_email" name="email" required>
+                        </dd>
+                    </div>
+                    <div class="subject">
+                        <dt><label for="user_subject">Subject</label></dt>
+                        <dd>
+                            <input type="text" id="user_subject" name="_subject">
+                        </dd>
+                    </div>
+                    <div class="comments">
+                        <dt><label for="user_message">Comments</label></dt>
+                        <dd>
+                            <textarea id="user_message" name="message" rows="5" required></textarea>
+                        </dd>
+                    </div>
+                </dl>
+
+                <div class="btn_area">
+                    <button type="submit" data-fs-submit-btn>Submit</button>
+                </div>
+            </form>
+        </div>
+    </main>
+
+    <!--  
+
+    <script>
+        window.formspree =
+            window.formspree ||
+            function () {
+                (formspree.q = formspree.q || []).push(arguments);
+            };
+
+        formspree("initForm", {
+            formElement: "#contact-form",
+            formId: "maeyavla",
+
+            renderSuccess: ({ form }) => {
+
+                const contactIntro = document.querySelector(".contact_intro");
+
+                if (contactIntro) {
+                    contactIntro.style.display = "none";
+                }
+
+                form.innerHTML = `
+        <div class="contact_success">
+            <p>Thank you.</p>
+            <p>Your message has been sent.</p>
+            <p>お問い合わせを受け付けました。</p>
+            <p>
+                メッセージをお送りいただき、ありがとうございます。<br>
+                内容を確認の上、折り返しご連絡いたします。
+            </p>
+        </div>
+    `;
+            }
+        });
+    </script>
+    <script src="https://unpkg.com/@formspree/ajax@1" defer></script>
+
+-->
+
+    <div class="footer_box"></div>
+
+    <script src="js/main.js"></script>
+    <script src="js/call_common.js"></script>
+
+    <script>
+        window.addEventListener("pageshow", function () {
+            const form = document.getElementById("contact-form");
+
+            if (form) {
+                form.reset();
+            }
+        });
+    </script>
+
+</body>
+
+</html>
