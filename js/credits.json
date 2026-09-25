@@ -1,0 +1,356 @@
+[
+    {
+        "section": "music",
+        "categoryClass": "lna_01",
+        "works": [
+            {
+                "title": "Pages Twin - Late Nite Ambient 01 (2026)",
+                "imgSrc": "img/lna.jpg",
+                "youtubeId": "68CMc6kR0xM",
+                "credits": [],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "music",
+        "categoryClass": "kanebo_ihope_01",
+        "works": [
+            {
+                "title": "KANEBO - I HOPE. 希望のカタチ (2026)",
+                "youtubeId": "vMpRCd-EwZU",
+                "credits": [],
+                "notes": []
+            },
+            {
+                "youtubeId": "z-yYcdTSQ7E",
+                "credits": [],
+                "notes": []
+            },
+            {
+                "youtubeId": "ZAsgFMzdeHE",
+                "credits": [
+                    "Music"
+                ],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "music",
+        "categoryClass": "iyl",
+        "works": [
+            {
+                "title": "Yuragi - In Your Languages (2025)",
+                "imgSrc": "img/iyl.jpg",
+                "credits": [
+                    "Production",
+                    "Composition",
+                    "Arrangement",
+                    "Guitar",
+                    "Chorus",
+                    "Lyrics"
+                ],
+                "notes": [
+                    "* except M10 'Sa Meditation'",
+                    "** M11 'To Know As You Are With No Ends'",
+                    "*** M6'Love You My Dear', M10'Farewell Speech' and M11'To Know As You Are With No Ends'"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "music",
+        "categoryClass": "bat",
+        "works": [
+            {
+                "title": "Big Animal Theory - However Well Known, Always Anonimous (2021)",
+                "imgSrc": "img/bat.jpg",
+                "credits": [],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "music",
+        "categoryClass": "nobuo",
+        "works": [
+            {
+                "title": "映画『吉田のぶお』 (2021) ",
+                "youtubeId": "fHBieVKNPbw",
+                "credits": [
+                    "Music(for selected scenes)"
+                ],
+                "notes": []
+            },
+            {
+                "imgSrc": "img/nobuo.jpg",
+                "credits": [
+                    "Venue Music Composition"
+                ],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "music",
+        "categoryClass": "iyl",
+        "works": [
+            {
+                "title": "Yuragi - For you, Adroit it but soft: Remixes & Rarities (2021)",
+                "imgSrc": "img/fyaibs_rmx.jpg",
+                "credits": [
+                    "Production"
+                ],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "music",
+        "categoryClass": "his",
+        "works": [
+            {
+                "title": "Yuragi - Here I Stand (2023)",
+                "imgSrc": "img/his.jpg",
+                "credits": [
+                    "Production",
+                    "Composition",
+                    "Arrangement",
+                    "Guitar",
+                    "Lyrics (M6 “Lost Sight of You” and M9 “Jason”)"
+                ],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "music",
+        "categoryClass": "fyaibs_rmx",
+        "works": [
+            {
+                "title": "Yuragi - For you, Adroit it but soft: Remixes & Rarities (2021)",
+                "imgSrc": "img/fyaibs_rmx.jpg",
+                "credits": [
+                    "Production"
+                ],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "music",
+        "categoryClass": "fyaibs",
+        "works": [
+            {
+                "title": "Yuragi - For you, Adroit it but soft (2021)",
+                "imgSrc": "img/fyaibs.jpg",
+                "credits": [
+                    "Production",
+                    "Arrangement",
+                    "Composition*",
+                    "Guitar",
+                    "Synthesizer"
+                ],
+                "notes": [
+                    "*except M6 “While My Waves Wonder”"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "music",
+        "categoryClass": "amni",
+        "works": [
+            {
+                "title": "AMNI, Big Animal Theory, Kntr - AMNI (2020)",
+                "imgSrc": "img/amni.png",
+                "credits": [],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "music",
+        "categoryClass": "sdsd_rmx",
+        "works": [
+            {
+                "title": "Yuragi - Still Dreaming, Still Deafening : Remixes & Rarities (2019)",
+                "imgSrc": "img/sdsd_rmx.jpg",
+                "credits": [
+                    "Production",
+                    "Remix(M5 'Path of the Moonlit Night - Kntr Remix')"
+                ],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "music",
+        "categoryClass": "sdsd",
+        "works": [
+            {
+                "title": "Yuragi - Still Dreaming, Still Deafening (2018)",
+                "imgSrc": "img/sdsd.JPG",
+                "credits": [
+                    "Production",
+                    "Arrangement*",
+                    "Composition**",
+                    "Guitar"
+                ],
+                "notes": [
+                    "*except M3 “Utopia”",
+                    "**M1 “B/C” and M2 “Horizon”"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "music",
+        "categoryClass": "nl",
+        "works": [
+            {
+                "title": "Yuragi - nightlife e.p (2018)",
+                "imgSrc": "img/nl.jpg",
+                "credits": [
+                    "Additional Production",
+                    "Arrangement",
+                    "Guitar"
+                ],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "design",
+        "categoryClass": "wtio2",
+        "works": [
+            {
+                "title": "Yuragi presents 'Wearing the inside out Part ii' (2026)",
+                "imgSrc": "img/wtio2.jpg",
+                "credits": [],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "design",
+        "categoryClass": "iyl",
+        "works": [
+            {
+                "title": "Yuragi - nightlife e.p (2018) Cassette / released on 2025",
+                "imgSrc": "img/nl_cassette_01.jpg",
+                "credits": [],
+                "notes": []
+            },
+            {
+                "imgSrc": "img/nl_cassette_02.jpg",
+                "credits": [],
+                "notes": []
+            },
+            {
+                "imgSrc": "img/nl_cassette_03.jpg",
+                "credits": [],
+                "notes": []
+            },
+            {
+                "imgSrc": "img/nl_cassette_04.jpg",
+                "credits": [
+                    "Physical Design"
+                ],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "design",
+        "categoryClass": "iyl",
+        "works": [
+            {
+                "title": "Yuragi - In Your Languages (2025) LP",
+                "imgSrc": "img/iyl_lp_01.jpg",
+                "credits": [],
+                "notes": []
+            },
+            {
+                "imgSrc": "img/iyl_lp_02.jpg",
+                "credits": [],
+                "notes": []
+            },
+            {
+                "imgSrc": "img/iyl_lp_03.jpg",
+                "credits": [
+                    "Physical Design"
+                ],
+                "notes": []
+            },
+            {
+                "title": "Yuragi - In Your Languages (2025) Cassette",
+                "imgSrc": "img/iyl_cassette_01.jpg",
+                "credits": [],
+                "notes": []
+            },
+            {
+                "imgSrc": "img/iyl_cassette_02.jpg",
+                "credits": [],
+                "notes": []
+            },
+            {
+                "imgSrc": "img/iyl_cassette_03.jpg",
+                "credits": [
+                    "Artwork Design",
+                    "Physical Design"
+                ],
+                "notes": []
+            },
+            {
+                "title": "Yuragi - In Your Languages (2025) Tour Poster",
+                "imgSrc": "img/iyl_poster.webp",
+                "credits": [
+                    "Graphic Design"
+                ],
+                "notes": []
+            },
+            {
+                "title": "Yuragi - In Your Languages (2025) Tour Live in China Poster",
+                "imgSrc": "img/china2025.webp",
+                "credits": [
+                    "Graphic Design"
+                ],
+                "notes": []
+            }
+        ]
+    },
+    {
+        "section": "design",
+        "categoryClass": "wtio2",
+        "works": [
+            {
+                "title": "Yuragi - Here I Stand (2023)",
+                "imgSrc": "img/his.jpg",
+                "credits": [
+                    "Artwork Design",
+                    "Physical Design"
+                ],
+                "notes": []
+            },
+            {
+                "title": "Yuragi - For you, Adroit it but soft: Remixes & Rarities (2021)",
+                "imgSrc": "img/fyaibs_rmx.jpg",
+                "credits": [
+                    "Artwork Design"
+                ],
+                "notes": []
+            },
+            {
+                "title": "Yuragi - For you, Adroit it but soft (2021)",
+                "imgSrc": "img/fyaibs.jpg",
+                "credits": [
+                    "Artwork Design",
+                    "Physical Design"
+                ],
+                "notes": []
+            }
+        ]
+    }
+]
